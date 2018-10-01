@@ -1,0 +1,15 @@
+body {
+    background-color: white;
+    color: rgb(78, 78, 64);
+    font-size: 16px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+ }
+ img{
+    max-height: 400px;
+ } 
+ #highlight {
+    color:#d81717;
+}
+p{
+    line-height: 1.5;
+}
